@@ -27,10 +27,10 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 7. Edit this `README.md` file, according to the **Submission** directions below, by adding a link to your project and including a description.
 
 ### Link
-[http://www.add-link-to-your-project-here.com](http://www.add-link-to-your-project-here.com)
+[http://www.add-link-to-your-project-here.com](http://mmp.bmcc.cuny.edu/bianca.gonzalez2/spring-2018/mmp-100/project-4/)
 
 ### Description
-Your description goes here.
+This footage was taken about a year ago at the famous spectacle Niagara Falls, it was one of the most breathtaking sights I have witnessed! I chose a song from the Disney movie Moana that depicted a "magical" scene of the main character interacting with the ocean which felt fitting for this view.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
